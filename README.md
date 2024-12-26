@@ -47,7 +47,3 @@ npm run dev
 - TypeScript
 - EmailJS
 - TailwindCSS
-
-## License
-
-MIT
